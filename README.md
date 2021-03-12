@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Travis
+### Hi there 👋, I'm <strong>Travis</strong>
 
 <!--
 **martintj79/martintj79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
